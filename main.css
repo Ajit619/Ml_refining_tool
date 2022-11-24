@@ -1,0 +1,11 @@
+body {
+    background-image : url("https://img.freepik.com/free-vector/winter-light-blue-gradient-vector-background_53876-126054.jpg?w=1060&t=st=1666268334~exp=1666268934~hmac=d1cdc2571d72e1fc2d77b0264a9c3611f68ebc045fedaaeae3d82530cdb6856d"  )  ;background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+  }
+#code{
+   /* border: 1px solid green; */
+   display: none;
+}
